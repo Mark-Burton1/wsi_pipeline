@@ -1,4 +1,4 @@
-# Hamamatsu whole slide imaging to unsupervised tiles pipeline
+# Hamamatsu whole slide imaging to unsupervised tiles pipeline with openslide
 
 This project builds an end-to-end pipeline for processing Hamamatsu NDPI whole slide images. It tiles slides, filters irrelevant patches, embeds each tile with a ResNet50 model, and clusters them using KMeans + UMAP. The result is an unsupervised map of morphological variability, allowing exploratory analysis of pathology slides even when no labels are available. 
 
