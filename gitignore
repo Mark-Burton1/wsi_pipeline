@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.ndpi
+*.tif
+*.tiff
+*.svs
+*.scn
+tiles_ndpi_l0/
+tiles_keep_bw/
+out/
