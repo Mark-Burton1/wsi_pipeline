@@ -16,4 +16,4 @@ Outputs (local, not committed)
 NDPI_patch.tif, NDPI_thumb.tif
 tiles_ndpi_l0/, tiles_keep_bw/
 unsup_tiles.tsv, umap_tiles.png
-tiles_manifest.csv, tiles_with_umap.csv (optional)
+tiles_manifest.csv, tiles_with_umap.csv
