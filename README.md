@@ -16,7 +16,7 @@ Order of execution is as follows:
 8. manifest.py
 
 Requirements
-macOS, Conda
+macOS, Conda,
 Scanner formats: NDPI (Hamamatsu)
 
 Outputs (local, not committed)
